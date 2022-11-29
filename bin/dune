@@ -1,0 +1,4 @@
+(executable
+ (public_name readcsv)
+ (name main)
+ (libraries csv readcsv))
